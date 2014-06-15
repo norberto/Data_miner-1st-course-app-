@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1402758684 source:c:\users\greenfigure\desktop\data\data_miner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+
